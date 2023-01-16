@@ -19,4 +19,4 @@ Steps:-
 10. pop remaining operators from the operator stack and apply them to the operands on the operand stack
 11. return the result, which should be the only remaining value on the operand stack
 
-Space Complexity O(n), time complexity O(log n)
+Space Complexity O(n), time complexity O(n)

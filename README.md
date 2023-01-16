@@ -4,6 +4,8 @@ Calculator App
 This solution uses two stacks to maintain the operands and operators, and follows the order of operations (BODMAS) by using the HasPrecedence and ApplyOp methods. It uses the tokens from the input string and checks the token if it is a operator or number and performs the corresponding operation accordingly.
 It also handles the brackets and nested brackets by using push and pop from the stack. 
 
+Time taken : 1hrs 57 minutes
+
 Steps:-
 1. split the input string into an array of tokens 
 2. stack to store the operands

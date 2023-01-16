@@ -1,0 +1,15 @@
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/bin/Debug/net6.0/ideagen-codingtest
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/bin/Debug/net6.0/ideagen-codingtest.deps.json
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/bin/Debug/net6.0/ideagen-codingtest.runtimeconfig.json
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/bin/Debug/net6.0/ideagen-codingtest.dll
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/bin/Debug/net6.0/ideagen-codingtest.pdb
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.dll
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/refint/ideagen-codingtest.dll
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.pdb
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ideagen-codingtest.genruntimeconfig.cache
+/Users/macbookpromid2012/Projects/ideagen-codingtest/ideagen-codingtest/obj/Debug/net6.0/ref/ideagen-codingtest.dll
